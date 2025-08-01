@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shn27&label=Profile%20views&color=0e75b6&style=flat" alt="shn27" /> </p>
 
-- 🔭 I’m currently working on a project named **Inbox Agent**. It is a golang based project.
+- 🔭 I’m currently working on a project named **Inbox Agent**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
