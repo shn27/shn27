@@ -3,50 +3,55 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shn27&label=Profile%20views&color=0e75b6&style=flat" alt="shn27" /> </p>
 
-- 🔭 I’m currently working on a project named **Inbox Agent**.
+- 🔭 I’m currently working on **Cloud in a Box**, an all-in-one platform for cloud-native application delivery.
+- 💡 Passionate about **Golang**, **Backend**, **Kubernetes**, **Distributed Systems**, and **Cloud Infrastructure**.
+- 🧠 Always exploring new technologies in the **DevOps** and **Backend Engineering** space.
+- 💬 Ask me about **Go**, **Docker**, **Kubernetes**, **Prometheus**, or **MySQL**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sohanur-rahman-245976236" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sohanur-rahman-245976236" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/sohanur_cse27" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sohanur_cse27" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/shn.." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="shn.." height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shn27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shn27" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/sohanur_cse27" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sohanur_cse27" height="30" width="40" /></a>
 </p>
 
 ## ⚙️ Technologies & Tools
-![Kubernets](https://img.shields.io/badge/kubernetes%20-%23326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-%230F1689.svg?style=for-the-badge&logo=helm&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-%23E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-%23000000.svg?style=for-the-badge&logo=opentelemetry&logoColor=white)
+![Jaeger](https://img.shields.io/badge/Jaeger-%2365AADB.svg?style=for-the-badge&logo=jaeger&logoColor=white)
+![Cadence](https://img.shields.io/badge/Cadence-%23FF6F00.svg?style=for-the-badge&logo=uber&logoColor=white)
+![IWF](https://img.shields.io/badge/IWF-%23181717.svg?style=for-the-badge&logo=temporal&logoColor=white)
+![Casdoor](https://img.shields.io/badge/Casdoor-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
+![Apache James](https://img.shields.io/badge/Apache%20James-%23D22128.svg?style=for-the-badge&logo=apache&logoColor=white)
+![Inbox Agent](https://img.shields.io/badge/Inbox%20Agent-%230078D4.svg?style=for-the-badge&logoSize=amg)
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![Shell Scripting](https://img.shields.io/badge/Shell%20Scripting-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-![Inbox_Agent](https://img.shields.io/badge/Inbox%20Agent-blue?style=for-the-badge&logoSize=amg)
-![Apache James](https://img.shields.io/badge/Apache%20James-red?style=for-the-badge&logoSize=amg)
-
-
-
-![GIT](https://img.shields.io/badge/git-%3776AB.svg?style=for-the-badge&logo=git&logoColor=white&color=F05032)
-![Linux](https://img.shields.io/badge/linux-%FCC624.svg?style=for-the-badge&logo=linux&logoColor=black&color=FCC624)
-![ShellScripts](https://img.shields.io/badge/Shell_Scripting-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-![Prometheus](https://img.shields.io/badge/Prometheus-000000?style=for-the-badge&logo=prometheus&labelColor=000000)
-![Grafana](https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=orange&labelColor=F2F4F9)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=Helm&labelColor=0F1689)
 
 
 ## ⚙️ Languages & Frameworks
-Languages have been sorted as ...  most proficient on the left and less proficient on the right <br>
 
-![C++](https://img.shields.io/badge/c++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=00599C)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Java](https://img.shields.io/badge/java-%7396.svg?style=for-the-badge&logo=java&logoColor=white&color=007396)
-![Javascript](https://img.shields.io/badge/javscript-%F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black&color=F7DF1E)
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-![HTML](https://img.shields.io/badge/html5-%3776AB.svg?style=for-the-badge&logo=html5&logoColor=white&color=E34F26)
-![CSS](https://img.shields.io/badge/css3-%1572B6.svg?style=for-the-badge&logo=css3&logoColor=white&color=1572B6)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%3776AB.svg?style=for-the-badge&logo=bootstrap&logoColor=white&color=563D7C)
-
-![go-chi](https://img.shields.io/badge/go-chi-00599C.svg?style=for-the-badge&logo=go-chi%2B%2B&logoColor=white&color=00599C)
-![Cobra](https://img.shields.io/badge/Cobra-00599C.svg?style=for-the-badge&logo=Cobra%2B%2B&logoColor=white&color=005762)
-![Kubebuilder](https://img.shields.io/badge/kubebuilder-00599C.svg?style=for-the-badge&logo=kubebuilder%2B%2B&logoColor=white&color=00599C)
-![Ginkgo](https://img.shields.io/badge/ginkgo-00599C.svg?style=for-the-badge&logo=ginkgo&logoColor=white&color=00599C)
+![Gin](https://img.shields.io/badge/Gin-%23008ECF.svg?style=for-the-badge&logo=go&logoColor=white)
+![GORM](https://img.shields.io/badge/GORM-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Go-chi](https://img.shields.io/badge/Go--chi-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Cobra](https://img.shields.io/badge/Cobra-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Kubebuilder](https://img.shields.io/badge/Kubebuilder-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-%234A154B.svg?style=for-the-badge&logo=grpc&logoColor=white)
+![ConnectRPC](https://img.shields.io/badge/ConnectRPC-%230078D4.svg?style=for-the-badge&logo=protobuf&logoColor=white)
+![Ginkgo](https://img.shields.io/badge/Ginkgo-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
 
 
