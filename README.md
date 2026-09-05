@@ -1,12 +1,10 @@
-<h1 align="center">Hi 👋, I'm Sohanur Rahman</h1>
-<h3 align="center">I am a software engineer, currently working at AppsCode Inc.</h3>
-
+<h1 align="center">Hi 👋, I'm Sohanur Rahman</h1> <h3 align="center">Software Engineer | Backend & Cloud-Native Systems</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shn27&label=Profile%20views&color=0e75b6&style=flat" alt="shn27" /> </p>
 
-- 🔭 I’m currently working on **Cloud in a Box**, an all-in-one platform for cloud-native application delivery.
+- 🔭 Worked on Cloud in a Box, an all-in-one platform for cloud-native application delivery.
 - 💡 Passionate about **Golang**, **Backend**, **Kubernetes**, **Distributed Systems**, and **Cloud Infrastructure**.
 - 🧠 Always exploring new technologies in the **DevOps** and **Backend Engineering** space.
-- 💬 Ask me about **Go**, **Docker**, **Kubernetes**, **Prometheus**, or **MySQL**.
+- 💬 Ask me about **Go**, **Docker**, **Kubernetes**, **Prometheus**, **MySQL**, or **Spring Boot**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -52,6 +50,14 @@
 ![gRPC](https://img.shields.io/badge/gRPC-%234A154B.svg?style=for-the-badge&logo=grpc&logoColor=white)
 ![ConnectRPC](https://img.shields.io/badge/ConnectRPC-%230078D4.svg?style=for-the-badge&logo=protobuf&logoColor=white)
 ![Ginkgo](https://img.shields.io/badge/Ginkgo-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring%20Framework-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-%236DB33F.svg?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-%2359666C.svg?style=for-the-badge&logo=hibernate&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-%23007396.svg?style=for-the-badge&logo=java&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-%23C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-%2302303A.svg?style=for-the-badge&logo=gradle&logoColor=white)
 
 
 
