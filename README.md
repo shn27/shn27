@@ -2,9 +2,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shn27&label=Profile%20views&color=0e75b6&style=flat" alt="shn27" /> </p>
 
 - 🔭 Worked on Cloud in a Box, an all-in-one platform for cloud-native application delivery.
-- 💡 Passionate about **Golang**, **Backend**, **Kubernetes**, **Distributed Systems**, and **Cloud Infrastructure**.
+- 💡 Passionate about **Golang**, **Java** , **Backend**, **Kubernetes**, **Distributed Systems**, and **Cloud Infrastructure**.
 - 🧠 Always exploring new technologies in the **DevOps** and **Backend Engineering** space.
-- 💬 Ask me about **Go**, **Docker**, **Kubernetes**, **Prometheus**, **MySQL**, or **Spring Boot**.
+- 💬 Ask me about **Go**, **Spring Boot**, **Docker**, **Kubernetes**, **Prometheus**, **MySQL**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
